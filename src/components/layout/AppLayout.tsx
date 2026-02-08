@@ -33,7 +33,7 @@ const AppLayout = ({ children }: { children: ReactNode }) => {
           <div className="flex h-9 w-9 items-center justify-center rounded-xl pos-gradient-bg">
             <ShoppingCart className="h-5 w-5 text-primary-foreground" />
           </div>
-          <span className="text-lg font-bold text-sidebar-foreground">SwiftPOS</span>
+          <span className="text-lg font-bold text-sidebar-foreground">Joms POS SYSTEM</span>
         </div>
 
         {/* Nav */}

@@ -27,7 +27,7 @@ const Login = () => {
           <div className="mx-auto mb-4 flex h-16 w-16 items-center justify-center rounded-2xl pos-gradient-bg pos-glow">
             <ShoppingCart className="h-8 w-8 text-primary-foreground" />
           </div>
-          <h1 className="text-3xl font-bold text-foreground">SwiftPOS</h1>
+          <h1 className="text-3xl font-bold text-foreground">Joms POS SYSTEM</h1>
           <p className="mt-1 text-muted-foreground">Point of Sale System</p>
         </div>
 
